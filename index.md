@@ -83,3 +83,5 @@ Slosh — головоломка для iPhone. Регистрация в игр
 ## Контакт
 
 Вопросы по этой политике: dhdh10151@gmail.com
+
+[Страница поддержки](https://devkurskiev.github.io/slosh-privacy/support)
